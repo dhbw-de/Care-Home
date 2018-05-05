@@ -8,7 +8,7 @@ Was wäre, wenn der Alltag sorglos wäre?
 * unsere Strategie: "EIn Gesamtkonzept hinsichtlich des Wohnenes und der Unterstützung im Alter.
 * wir sind ein umweltfreundliches Unternehmen
 
-![photo](https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&h=350)
+![photo](344bc893-8ea0-45ad-ba40-85a167c6e7be.jpeg)
 
 ## Unser Produktportfolio
 
