@@ -6,7 +6,7 @@
 * unsere Strategie: "EIn Gesamtkonzept hinsichtlich des Wohnenes und der Unterstützung im Alter.
 * wir sind ein umweltfreundliches Unternehmen
 
-![photo](Care Home Logo.jpg )
+![photo](Care Home Logo.jpg)
 
 ## Unser Produktportfolio
 
