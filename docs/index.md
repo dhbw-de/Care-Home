@@ -1,6 +1,7 @@
 
 
 
+
 ## Über uns
 
 * unsere Mission ist es würdevolles Leben vor allem im Alter ermöglichen.
@@ -9,7 +10,7 @@
 
 ![photo](Care Home Logo.jpg)
 ![photo](Care-Home/docs/Care Home Logo.jpg)
-
+![photo](Care Home Logo.jpg)
 ## Unser Produktportfolio
 
 * 1. Produkt: altersgerechtes Wohnen für Senioren
