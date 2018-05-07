@@ -9,8 +9,7 @@
 * wir sind ein umweltfreundliches Unternehmen
 
 ![photo](Care Home Logo.jpg)
-![photo](Care-Home/docs/Care Home Logo.jpg)
-![photo](Care Home Logo.jpg)
+
 ## Unser Produktportfolio
 
 * 1. Produkt: altersgerechtes Wohnen für Senioren
