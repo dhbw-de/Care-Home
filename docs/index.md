@@ -1,5 +1,6 @@
 
 
+
 ## Über uns
 
 * unsere Mission ist es würdevolles Leben vor allem im Alter ermöglichen.
@@ -7,6 +8,7 @@
 * wir sind ein umweltfreundliches Unternehmen
 
 ![photo](Care Home Logo.jpg)
+![photo](Care-Home/docs/Care Home Logo.jpg)
 
 ## Unser Produktportfolio
 
