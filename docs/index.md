@@ -9,6 +9,7 @@
 * wir sind ein umweltfreundliches Unternehmen
 
 ![photo](Care Home Logo.jpg)
+![photo](https://github.com/dhbw-de/Care-Home/blob/master/docs/Care%20Home%20Logo.jpg)
 
 ## Unser Produktportfolio
 
