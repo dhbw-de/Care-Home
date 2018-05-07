@@ -6,7 +6,7 @@
 * unsere Strategie: "EIn Gesamtkonzept hinsichtlich des Wohnenes und der Unterstützung im Alter.
 * wir sind ein umweltfreundliches Unternehmen
 
-![photo](344bc893-8ea0-45ad-ba40-85a167c6e7be.jpeg)
+![photo](Logo neu.png)
 
 ## Unser Produktportfolio
 
