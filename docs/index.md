@@ -1,12 +1,10 @@
 
 
-
-
 ## Über uns
 
 * unsere Mission ist es würdevolles Leben vor allem im Alter ermöglichen.
 * unsere Strategie: "EIn Gesamtkonzept hinsichtlich des Wohnenes und der Unterstützung im Alter.
-* wir sind ein umweltfreundliches Unternehmen
+* wir sind ein umweltfreundliches Unternehme
 
 ![photo](https://github.com/dhbw-de/Care-Home/blob/master/docs/Care%20Home%20Logo.jpg)
 
@@ -19,10 +17,10 @@
 *	75% der Deutschen haben Angst ihre Leben bzw. ihren Lebensabend nicht nach ihren eigenen Vorstellungen verbringen zu können.
 *	Das bisher von Versicherer geleistete Pflegetagegeld reicht für teure Heimplätze nicht aus
 *	Assekuranzen müssen aktiv werden und die Pflegeversicherung revolutionieren:
-**	Gemeinschaftliches und sorgenfreies Wohnen nach individuellen Bedürfnissen in einem „mehr Generationen Wohnviertel“
-**	Ausstattung mit neuster Smart-Home-Technologie
-**	Hervorragend ausgebaute Infrastruktur
-**	Inkl. adäquater Pflegeeinrichtungen
+** Gemeinschaftliches und sorgenfreies Wohnen nach individuellen Bedürfnissen in einem „mehr Generationen Wohnviertel“
+** Ausstattung mit neuster Smart-Home-Technologie
+** Hervorragend ausgebaute Infrastruktur
+** Inkl. adäquater Pflegeeinrichtungen
 
 
 ## Ausblick
