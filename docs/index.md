@@ -1,5 +1,4 @@
 
-
 ## Über uns
 
 * unsere Mission ist es würdevolles Leben vor allem im Alter ermöglichen.
@@ -21,6 +20,22 @@
 ** Ausstattung mit neuster Smart-Home-Technologie
 ** Hervorragend ausgebaute Infrastruktur
 ** Inkl. adäquater Pflegeeinrichtungen
+
+## Dienstleistung
+* Dienstleistungen rund um den Alltag:
+* Ambulanter Pflegedienst
+o	Pflegeservice für die Pflegebedürftigen Bewohner
+o	Bestandteil der Pflegeversicherung und daher kostenfrei inkludiert
+o	Ausführung nur durch hoch qualifizierte Pfleger 
+* Hausmeisterservice
+o	Kostenloser Hausmeisterservice für alle Bewohner
+o	Von einfachen Aufgaben wie Bilder befestigen, bis hin komplexeren Handwerkstätigkeiten
+* Reinigung und Wäscheservice
+o	Inkludierter Service für jeden Bewohner
+o	Reinigung der Wohnung sowie der Wäsche
+* Fitnessstudio incl. Physiotherapie
+o	Kostenfreie Nutzung des Fitnessstudios für alle Bewohner
+o	Kosten für die Physiotherapie werden, sofern die Krankenkasse nicht zahlt, bei den Pflegebedürftigen Bewohner von Care Home übernommen
 
 
 ## Ausblick
