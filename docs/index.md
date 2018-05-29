@@ -21,7 +21,7 @@ layout: home
 * unsere Strategie: "EIn Gesamtkonzept hinsichtlich des Wohnenes und der Unterstützung im Alter.
 * wir sind ein umweltfreundliches Unternehmen
 
-![photo](https://github.com/dhbw-de/Care-Home/blob/master/docs/Care%20Home%20Logo.jpg)
+![photo](https://dhbw-de.github.io/Care-Home/Care%20Home%20Logo.jpg){:style='width:100px;'} 
 
 ## Unser Produktportfolio
 
