@@ -240,6 +240,20 @@
 		}
 
 	}
+	
+/* custom */
+
+span.marker{
+	
+	background-color:#fff;
+	border-color: #fff;
+	border-width: 1px;
+	border-radius: 6px;
+	padding-left: 8px;
+	padding-right: 8px;
+	opacity: 0.8;
+	color: #999;
+}
 
 /* Grid */
 

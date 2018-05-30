@@ -32,59 +32,6 @@ layout: home
 	* Ausstattung mit neuster Smart-Home-Technologie
 	* Hervorragend ausgebaute Infrastruktur
 	* Inkl. adäquater Pflegeeinrichtungen
-## Unser Produktportfolio
-
-* 1.Produkt: altersgerechtes Wohnen für Senioren
-* 2.Produkt: umweltbewusstes und gemeinschaftliches Wohnen für Familien und Singles
-* 3.Produkt: Soziales und günstiges Wohnen für Studenten
-
-
-
-## Dienstleistung
-
-* Dienstleistungen rund um den Alltag:
-* Ambulanter Pflegedienst
-	* Pflegeservice für die Pflegebedürftigen Bewohner
-	* Bestandteil der Pflegeversicherung und daher kostenfrei inkludiert
-	* Ausführung nur durch hoch qualifizierte Pfleger 
-* Hausmeisterservice
-	* kostenloser Hausmeisterservice für alle Bewohner
-	* von einfachen Aufgaben wie Bilder befestigen, bis hin komplexeren Handwerkstätigkeiten
-* Reinigung und Wäscheservice
-	* Inkludierter Service für jeden Bewohner
-	* Reinigung der Wohnung sowie der Wäsche
-* Fitnessstudio incl. Physiotherapie
-	* Kostenfreie Nutzung des Fitnessstudios für alle Bewohner
-	* Kosten für die Physiotherapie werden, sofern die Krankenkasse nicht zahlt, bei den Pflegebedürftigen Bewohner von Care Home übernommen
-
-## Smart-Home 
-
-* Alle Wohnungen sind mit Smart-Home-Technologie ausgestattet 
-* Was bedeutet Smart-Home? 
-	*Smart-Home bedeutet die Vernetzung der Wohnung nach innen und außen. 
-	* Bspw. kann von unterwegs über das Smartphone die Heizung ein- oder das Licht ausgeschaltet werden. 
-	* Sensoren unterstützen die Smart-Home-Technologie. 
-	* Die Bedienung ist einfach, intuitiv und seniorengerecht. 
-	* Automatische Notfallerkennung mit Künstlicher Intelligenz: In einem Notfall werden je nach Schweregrad Angehörige oder direkt der Rettungsdienst alarmiert. 
-* Welche Vorteile entstehen Ihnen durch Smart-Home? 
-
-	* In Notfällen wird Ihnen sofort geholfen. 
-	* Durch die Energieverwaltung kann der Energieverbrauch minimiert werden. So leisten Sie einen großen Beitrag zur Umwelt. 
-	* Das Wohnerlebnis wird komfortabler und siche
-
-## Ausblick
-
-Kontinuierliche Weiterentwicklung der Dienstleistung mittels der Should-Haves und Could-Haves:
-* Should-Haves:
-	* Arzt und Apotheke
-	* Online Lebensmittelbestellung (über App) und Lieferung durch Discounter
-* Could-Haves:
-	* Firseursalon
-	* Fußpflege
-	* Reisebüro
-	* Angebot an Senioren-WG´s
-	* Der Versicherungskonzern gründet eine Tochtergesellschaft, welche als Bauunternehmung für weitere Care-Home-Siedlungen deutschlandweit fungiert. 
-	* Um von einem Smart-Home-Anbieter unabhängig zu sein, bringt der Versicherungskonzern sein eigenes Smart-Home-System auf den Markt.
 
 
 </header>
