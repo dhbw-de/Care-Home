@@ -96,7 +96,7 @@ Kontinuierliche Weiterentwicklung der Dienstleistung mittels der Should-Haves un
 <section class="box special features">
 	<div class="features-row">
 		<section>
-			<span class="icon major fa-bolt accent2"></span>
+			<span class="icon major fas fa-users accent2"></span>
 			<h3>Kontakt</h3>
 			<p>Unsere Berater unterstützen Sie gerne in Ihrer Lebensplanung. Hier finden Sie Berater aus Ihrer Region.</p>
 		</section>
