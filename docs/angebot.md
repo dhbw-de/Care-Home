@@ -4,6 +4,20 @@ title: Angebot
 permalink: /angebot/
 ---
 
+{::options parse_block_html="true" /}
+
+
+<!-- Main -->
+<section id="main" class="container">
+
+<header>
+<h2>Angebot</h2>
+<p></p>
+</header>
+					
+
+<div class="box">
+
 ## Unser Produktportfolio
 
 * 1.Produkt: altersgerechtes Wohnen für Senioren
@@ -28,3 +42,6 @@ permalink: /angebot/
 * Fitnessstudio incl. Physiotherapie
 	* Kostenfreie Nutzung des Fitnessstudios für alle Bewohner
 	* Kosten für die Physiotherapie werden, sofern die Krankenkasse nicht zahlt, bei den Pflegebedürftigen Bewohner von Care Home übernommen
+
+</div>
+</section>
