@@ -98,24 +98,24 @@ Kontinuierliche Weiterentwicklung der Dienstleistung mittels der Should-Haves un
 		<section>
 			<span class="icon major fa-bolt accent2"></span>
 			<h3>Kontakt</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<p>Unsere Berater unterstützen Sie gerne in Ihrer Lebensplanung. Hier finden Sie Berater aus Ihrer Region.</p>
 		</section>
 		<section>
 			<span class="icon major fa-area-chart accent3"></span>
-			<h3>Unsere Kunden sagen</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<h3>Ihre Meinung ist uns wichtig</h3>
+			<p>Nur mit Ihrem Feedback können wir Ihr Erlebnis verbessern.</p>
 		</section>
 	</div>
 	<div class="features-row">
 		<section>
 			<span class="icon major fa-cloud accent4"></span>
 			<h3>Downloads</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<p>Alle relevanten Dokumente haben wir für Sie übersichtlich hinterlegt.</p>
 		</section>
 		<section>
 			<span class="icon major fa-lock accent5"></span>
-			<h3>Sicherheit</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<h3>Datenschutz</h3>
+			<p>Der Schutz Ihrer Daten ist uns wichtig. Daher lassen wir uns regelmäßig die Sicherheit der Daten zertifizieren.</p>
 		</section>
 	</div>
 </section>
