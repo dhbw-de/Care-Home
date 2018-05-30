@@ -101,7 +101,7 @@ Kontinuierliche Weiterentwicklung der Dienstleistung mittels der Should-Haves un
 			<p>Unsere Berater unterstützen Sie gerne in Ihrer Lebensplanung. Hier finden Sie Berater aus Ihrer Region.</p>
 		</section>
 		<section>
-			<span class="icon major fa-area-chart accent3"></span>
+			<span class="icon major fa-comments accent3"></span>
 			<h3>Ihre Meinung ist uns wichtig</h3>
 			<p>Nur mit Ihrem Feedback können wir Ihr Erlebnis verbessern.</p>
 		</section>
