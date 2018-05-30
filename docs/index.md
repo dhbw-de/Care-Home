@@ -23,13 +23,7 @@ layout: home
 
 ![photo](https://dhbw-de.github.io/Care-Home/Care%20Home%20Logo.jpg){:style='width:100px;'} 
 
-## Unser Produktportfolio
-
-* 1.Produkt: altersgerechtes Wohnen für Senioren
-* 2.Produkt: umweltbewusstes und gemeinschaftliches Wohnen für Familien und Singles
-* 3.Produkt: Soziales und günstiges Wohnen für Studenten
-
-## Abstract
+## Was treibt uns an?
 
 *	75% der Deutschen haben Angst ihre Leben bzw. ihren Lebensabend nicht nach ihren eigenen Vorstellungen verbringen zu können.
 *	Das bisher von Versicherer geleistete Pflegetagegeld reicht für teure Heimplätze nicht aus
@@ -38,6 +32,13 @@ layout: home
 	* Ausstattung mit neuster Smart-Home-Technologie
 	* Hervorragend ausgebaute Infrastruktur
 	* Inkl. adäquater Pflegeeinrichtungen
+## Unser Produktportfolio
+
+* 1.Produkt: altersgerechtes Wohnen für Senioren
+* 2.Produkt: umweltbewusstes und gemeinschaftliches Wohnen für Familien und Singles
+* 3.Produkt: Soziales und günstiges Wohnen für Studenten
+
+
 
 ## Dienstleistung
 
